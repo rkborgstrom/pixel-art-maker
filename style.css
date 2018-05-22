@@ -1,3 +1,10 @@
+body {
+    font-family: helvetica;
+    font-size: 2em;
+    font-style: italic;
+    color: coral;
+}
+
 .canvas-section {
   display: flex;
   justify-content: flex-start;
@@ -29,8 +36,7 @@
   margin-right: auto;
 }
 
-#brush-color
-{
+#brush-color {
     display: flex;
     justify-content: start;
 }
