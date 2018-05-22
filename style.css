@@ -29,6 +29,12 @@
   margin-right: auto;
 }
 
+#brush-color
+{
+    display: flex;
+    justify-content: start;
+}
+
 .color-box {
   height: 24px;
   width: 24px;
